@@ -33,8 +33,8 @@ function App() {
       dispatch(getUser())
     } else {
       const { pathname } = window.location;
-      if (pathname !== '/signin' && pathname !== '/posts')
-        window.location.href = '/signin'
+      if (pathname !== '/')
+        window.location.href = '/'
     }
   }, [localStorage.getItem('jwtAccess')]);
 

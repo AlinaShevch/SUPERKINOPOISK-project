@@ -1,0 +1,13 @@
+.footer {
+    padding-bottom: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.footer-text {
+    color: #afb2b6;
+    font-weight: 500;
+    line-height: 24px;
+    white-space: nowrap;
+    margin: auto;
+}

@@ -1,0 +1,15 @@
+.dark-container {
+   background-color: #212529;
+}
+
+.light-container {
+   background-color: #fff;
+}
+
+.dark-title {
+   color: lightgray
+}
+
+.light-title {
+   color: black
+}

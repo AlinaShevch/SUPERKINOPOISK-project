@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/SUPERKINOPOISK-project/static/css/main.b4950146.css",
+    "main.js": "/SUPERKINOPOISK-project/static/js/main.0014a6f1.js",
+    "static/js/787.e77fb210.chunk.js": "/SUPERKINOPOISK-project/static/js/787.e77fb210.chunk.js",
+    "static/media/bootstrap-icons.woff?": "/SUPERKINOPOISK-project/static/media/bootstrap-icons.e559bf06bc84fd9525e6.woff",
+    "static/media/bootstrap-icons.woff2?": "/SUPERKINOPOISK-project/static/media/bootstrap-icons.ea98e12d2d58747f9fc5.woff2",
+    "index.html": "/SUPERKINOPOISK-project/index.html",
+    "main.b4950146.css.map": "/SUPERKINOPOISK-project/static/css/main.b4950146.css.map",
+    "main.0014a6f1.js.map": "/SUPERKINOPOISK-project/static/js/main.0014a6f1.js.map",
+    "787.e77fb210.chunk.js.map": "/SUPERKINOPOISK-project/static/js/787.e77fb210.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b4950146.css",
+    "static/js/main.0014a6f1.js"
+  ]
+}
